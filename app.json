@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "micropia-portal",
+    "slug": "micropia-portal",
+    "version": "1.0.0",
+    "platforms": ["web"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
+
+
