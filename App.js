@@ -7,7 +7,7 @@ const LOGO_URL = 'https://static.prod-images.emergentagent.com/jobs/b09505ba-190
 
 // LINKS OFICIALES DE TUS ISLAS (CABLEADO FINAL)
 const ISLANDS = [
-  { id: 100, name: 'Orígenes', url: 'https://micropia-m100.onrender.com' },
+  { id: 100, name: 'Orígenes', url: 'https://micropia-m102.onrender.com' },
   { id: 101, name: 'El Zoo Invisible', url: 'https://micropia-zoo.onrender.com' },
   { id: 102, name: 'Escudo Inmune', url: '#' }, // Próximamente
   { id: 103, name: 'Micro-Chef', url: '#' },
