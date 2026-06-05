@@ -14,7 +14,7 @@ const ISLANDS = [
   { id: 103, name: 'Micro-Chef', url: 'https://micropia-m103.onrender.com' },
   { id: 104, name: 'Sinfonía', url: 'https://micropia-m104.onrender.com' },
   { id: 105, name: 'Micro-Mentes', url: 'https://micropia-m105.onrender.com' },
-  { id: 106, name: 'Aliens en Casa', url: '#' }, // En proceso
+  { id: 106, name: 'Aliens en Casa', url: 'https://micropia-m107.onrender.com' }, // En proceso
   { id: 107, name: 'Futuro Bio-Digital', url: '#' },
 
 ];
