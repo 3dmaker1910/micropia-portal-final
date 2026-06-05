@@ -7,14 +7,16 @@ const LOGO_URL = 'https://static.prod-images.emergentagent.com/jobs/b09505ba-190
 
 // LINKS OFICIALES ACTUALIZADOS (CABLEADO DE TU IMPERIO)
 const ISLANDS = [
+  const ISLANDS = [
   { id: 100, name: 'Orígenes', url: 'https://micropia-m100.onrender.com' },
   { id: 101, name: 'El Zoo Invisible', url: 'https://micropia-zoo.onrender.com' },
   { id: 102, name: 'Escudo Inmune', url: 'https://micropia-m102.onrender.com' },
   { id: 103, name: 'Micro-Chef', url: 'https://micropia-m103.onrender.com' },
   { id: 104, name: 'Sinfonía', url: 'https://micropia-m104.onrender.com' },
-  { id: 105, name: 'Micro-Mentes', url: '#' }, // Próximamente (Estamos en ello)
-  { id: 106, name: 'Aliens en Casa', url: '#' },
+  { id: 105, name: 'Micro-Mentes', url: 'https://micropia-m105.onrender.com' },
+  { id: 106, name: 'Aliens en Casa', url: '#' }, // En proceso
   { id: 107, name: 'Futuro Bio-Digital', url: '#' },
+
 ];
 
 export default function App() {
