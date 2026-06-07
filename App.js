@@ -9,7 +9,7 @@ const LOGO_URL = 'https://static.prod-images.emergentagent.com/jobs/b09505ba-190
 const ISLANDS = [
   { id: 100, name: 'Orígenes', url: 'https://micropia-m100.onrender.com' },
   { id: 101, name: 'El Zoo Invisible', url: 'https://micropia-zoo.onrender.com' },
-  { id: 102, name: 'Escudo Inmune', url: 'https://immune-tactics-v1-final.onrender.com' },
+  { id: 102, name: 'Escudo Inmune', url: 'https://micropia-m102-v2.onrender.com' },
   { id: 103, name: 'Micro-Chef', url: 'https://micropia-m103-chef-v1.onrender.com' },
   { id: 104, name: 'Sinfonía', url: 'https://micropia-m104.onrender.com' },
   { id: 105, name: 'Micro-Mentes', url: 'https://micropia-m105.onrender.com' },
